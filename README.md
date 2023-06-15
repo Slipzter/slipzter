@@ -1,4 +1,5 @@
-### Hi there 👋
+[![My Skills](https://skillicons.dev/icons?i=java,cs,dotnet,ts,js,html,css)](https://skillicons.dev)
+
 
 
 
