@@ -1,5 +1,5 @@
 <h1 align="center">Hey! 👋 I'm Tim Hansson Meng</h1>
-<h3 align="center">Fullstack Developer from Sweden</h3>
+<h3 align="center">Swedish/Chinese fullstack developer</h3>
 
 
 
