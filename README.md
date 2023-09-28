@@ -38,6 +38,7 @@
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/zUNUlhB.png" alt="bootstrap" width="40" height="40"/> </a>  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>  
+  <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/wkZ2go4.png" alt="nextjs" height="40"/> </a>  
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="bash" width="40" height="40"/> </a>
   <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a>  
