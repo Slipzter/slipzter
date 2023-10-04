@@ -55,6 +55,7 @@
 
 <h3 align="left">Platforms:</h3>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/PVfmePy.png" alt="vercel" width="40" height="40"/> </a>
   <a href="https://fly.io/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Eaeu2Kc.png" alt="fly.io" width="40" height="40"/> </a>
   
 ###
