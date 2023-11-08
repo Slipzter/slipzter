@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tim-hansson-meng-b9087b118" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tim-hansson-meng-b9087b118" /></a>
+<a href="https://linkedin.com/in/tim-hansson-meng" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tim-hansson-meng-b9087b118" /></a>
 </p>
 
 <h3 align="left">Languages:</h3>
