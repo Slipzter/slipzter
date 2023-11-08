@@ -64,10 +64,12 @@
 <h3 align="left">CV:</h3>
 <a href="https://drive.google.com/file/d/142aOYs_cO9sNFok6ijlXG3rnil5SeH-e/view?usp=sharing" target="_blank" rel="noreferrer">Tim Hansson Meng CV</a>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slipzter&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut)
+
 <!--
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slipzter&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut)
+
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Slipzter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
