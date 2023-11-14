@@ -56,6 +56,7 @@
 
 <h3 align="left">Platforms:</h3>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+    <a href="https://azure.microsoft.com/sv-se/products/devops" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" alt="azure" height="40"/> </a>
   <a href="https://cloud.google.com/?hl=sv" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IXEPvKj.png" alt="google cloud platform" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/PVfmePy.png" alt="vercel" width="40" height="40"/> </a>
   <a href="https://fly.io/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Eaeu2Kc.png" alt="fly.io" width="40" height="40"/> </a>
