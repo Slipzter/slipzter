@@ -1,8 +1,9 @@
 <h1 align="">Hey! 👋 I'm Tim Hansson Meng</h1>
 <h3 align="">Fullstack Developer / Software Engineer from Sweden 🇸🇪</h3>
-<p align=""><img align="center" src="https://github.com/Slipzter/slipzter/assets/113916486/cfb93638-f501-4ac9-8202-ff6f3d956526" /></p>
+<p align=""><img align="center" src="https://github.com/Slipzter/slipzter/assets/113916486/a266a855-b2b2-4ea7-8e44-cf8819858b6e" /></p>
 
 ---
+
 
 
 <h3>about me:</h3>
