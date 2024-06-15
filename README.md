@@ -1,14 +1,19 @@
-<h1 align="center">Hey! 👋 I'm Tim Hansson Meng</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="">Hey! 👋 I'm Tim Hansson Meng</h1>
+<h3 align="">Fullstack Developer / Software Engineer from Sweden 🇸🇪</h3>
+<p align=""><img align="center" src="https://github.com/Slipzter/slipzter/assets/113916486/cfb93638-f501-4ac9-8202-ff6f3d956526" /></p>
+
+---
 
 
+<h3>about me:</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tim-hansson-meng" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tim-hansson-meng-b9087b118" /></a>
-</p>
+  - ☕ I work as a Java-focused Software Engineer currently at <a href="https://www.linkedin.com/company/lansforsakringar">`Länsförsäkringar AB`</a> 🏢
+  - 🍕 On my free time, I like to cook food from different cultures 🍜🍔 As well as enjoying a really good video game 🎮
+  - 🎓 Studied at <a href="https://salt.dev/">`</salt>`</a> and <a href="https://chasacademy.se/">`Chas Academy`</a>, both in Stockholm 🏙️
+  - 💾 Want to make robust software solutions 💻 I'm particularly interested in test-driven development 🛠️
+  - 🔗 Easiest way to reach me is via <a href="https://linkedin.com/in/tim-hansson-meng" target="blank">**`LinkedIn`**</a> 📫
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">languages:</h3>
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -20,7 +25,7 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/> </a>  
 
   
-<h3 align="left">Tools:</h3>
+<h3 align="left">tools:</h3>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/> </a>  
   <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
@@ -39,7 +44,7 @@
   <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a>  
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/> </a>  
 
-<h3 align="left">Frameworks & Libraries:</h3> 
+<h3 align="left">frameworks & libraries:</h3> 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
     <a href="https://camel.apache.org/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/apache-camel-logo.png" alt="bootstrap" width="40" height="40"/> </a>  
   <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/zUNUlhB.png" alt="bootstrap" width="40" height="40"/> </a>  
@@ -55,22 +60,25 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="40" height="40"/> </a>  
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>  
 
-<h3 align="left">Platforms:</h3>
+<h3 align="left">platforms:</h3>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
     <a href="https://azure.microsoft.com/sv-se/products/devops" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/azure-devops-logo-E7364216A7-seeklogo.com.png" alt="azure" height="40"/> </a>
   <a href="https://cloud.google.com/?hl=sv" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/IXEPvKj.png" alt="google cloud platform" height="40"/> </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/PVfmePy.png" alt="vercel" width="40" height="40"/> </a>
   <a href="https://fly.io/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/Eaeu2Kc.png" alt="fly.io" width="40" height="40"/> </a>
   
-<h3 align="left">Databases:</h3>
+<h3 align="left">databases:</h3>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="oracledb" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 
-###
+<h3 align="left">connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/tim-hansson-meng" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="tim-hansson-meng-b9087b118" /></a>
+</p>
 
-<h3 align="left">CV:</h3>
-<a href="https://drive.google.com/file/d/142aOYs_cO9sNFok6ijlXG3rnil5SeH-e/view?usp=sharing" target="_blank" rel="noreferrer">Tim Hansson Meng CV</a>
+###
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slipzter&size_weight=0.5&count_weight=0.5&langs_count=6&layout=donut)
 
