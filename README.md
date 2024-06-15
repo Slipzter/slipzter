@@ -1,5 +1,5 @@
-<h1 align="">Hey! 👋 I'm Tim Hansson Meng</h1>
-<h3 align="">Fullstack Developer / Software Engineer from Sweden 🇸🇪</h3>
+<h1 align="center">Hey! 👋 I'm Tim Hansson Meng</h1>
+<h3 align="center">Fullstack Developer / Software Engineer from 🇸🇪 and 🇨🇳</h3>
 <p align=""><img align="center" src="https://github.com/Slipzter/slipzter/assets/113916486/a266a855-b2b2-4ea7-8e44-cf8819858b6e" /></p>
 
 ---
