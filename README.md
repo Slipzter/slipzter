@@ -9,7 +9,7 @@
 <h3>about me:</h3>
 
   - ☕ I work as a Java-focused Software Engineer currently at <a href="https://www.linkedin.com/company/lansforsakringar">`Länsförsäkringar AB`</a> 🏢
-  - 🍕 On my free time, I like to cook food from different cultures 🍜🍔 As well as enjoying a really good video game 🎮
+  - 🍕 On my free time, I like to cook food from different cultures 🍜 As well as enjoying a really good video game 🎮
   - 🎓 Studied at <a href="https://salt.dev/">`</salt>`</a> and <a href="https://chasacademy.se/">`Chas Academy`</a>, both in Stockholm 🏙️
   - 💾 Want to make robust software solutions 💻 I'm particularly interested in test-driven development 🛠️
   - 🔗 Easiest way to reach me is via <a href="https://linkedin.com/in/tim-hansson-meng" target="blank">**`LinkedIn`**</a> 📫
